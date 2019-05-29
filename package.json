@@ -1,0 +1,26 @@
+{
+  "name": "cms",
+  "version": "0.1.0",
+  "description": "Node CMS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav Tiwari",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "compression": "^1.7.3",
+    "cors": "^2.8.5",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "formidable": "^1.2.1",
+    "fs-extra": "^7.0.1",
+    "jsonwebtoken": "^8.4.0",
+    "nodemailer": "^5.1.1",
+    "nodemailer-express-handlebars": "^3.0.0",
+    "path": "^0.12.7",
+    "sequelize": "^4.42.0",
+    "tedious": "^5.0.3"
+  }
+}

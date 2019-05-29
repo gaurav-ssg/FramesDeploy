@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="grid_2" data-name="grid 2" transform="translate(3091 1008)">
+    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(-3091 -1008)" fill="none" stroke="#e4e4e4" stroke-width="1">
+      <rect width="48" height="48" stroke="none"/>
+      <rect x="0.5" y="0.5" width="47" height="47" fill="none"/>
+    </g>
+    <line id="Line_2" data-name="Line 2" y2="48" transform="translate(-3074.5 -1008)" fill="none" stroke="#e4e4e4" stroke-width="1"/>
+    <line id="Line_7" data-name="Line 7" y2="48" transform="translate(-3043 -991.5) rotate(90)" fill="none" stroke="#e4e4e4" stroke-width="1"/>
+    <line id="Line_3" data-name="Line 3" y2="48" transform="translate(-3059.5 -1008)" fill="none" stroke="#e4e4e4" stroke-width="1"/>
+    <line id="Line_8" data-name="Line 8" y2="48" transform="translate(-3043 -976.5) rotate(90)" fill="none" stroke="#e4e4e4" stroke-width="1"/>
+  </g>
+</svg>

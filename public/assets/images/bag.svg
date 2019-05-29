@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29.452" height="26.759" viewBox="0 0 29.452 26.759">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="29.452" height="26.759" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_3" data-name="Repeat Grid 3" clip-path="url(#clip-path)">
+    <g id="Group_1062" data-name="Group 1062" transform="translate(3050 -8086)">
+      <g id="Group_968" data-name="Group 968" transform="translate(-3456.501 10645.952)" opacity="0.8">
+        <path id="Subtraction_6" data-name="Subtraction 6" d="M21.329,14.987H.577A.578.578,0,0,1,0,14.41l.336-4.035H21.568L21.9,14.41A.577.577,0,0,1,21.329,14.987Zm.144-5.765H.432L1.153.576A.577.577,0,0,1,1.73,0H5.822V1.519a1.418,1.418,0,1,0,2.837,0V0h4.164V1.519a1.418,1.418,0,0,0,2.837,0V0h4.516a.577.577,0,0,1,.577.576l.72,8.645Z" transform="translate(406.5 -2548.181)" fill="#535353"/>
+        <path id="Path_28671" data-name="Path 28671" d="M14.572,8.441a.839.839,0,0,0,.839-.839V4.331a2.653,2.653,0,0,1,5.306,0V7.6a.839.839,0,1,0,1.678,0V4.331a4.331,4.331,0,1,0-8.661,0V7.6A.839.839,0,0,0,14.572,8.441Z" transform="translate(399.173 -2554.356)" fill="#535353"/>
+      </g>
+      <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(-3038.548 8086)" fill="red" stroke="#fff" stroke-width="2">
+        <circle cx="9" cy="9" r="9" stroke="none"/>
+        <circle cx="9" cy="9" r="8" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

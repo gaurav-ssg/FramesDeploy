@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66" height="66" viewBox="0 0 66 66">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fea92b"/>
+      <stop offset="1" stop-color="#e28800"/>
+    </linearGradient>
+  </defs>
+  <g id="Right_button" data-name="Right button" transform="translate(-1756 -479)">
+    <circle id="Ellipse_551" data-name="Ellipse 551" cx="33" cy="33" r="33" transform="translate(1756 479)" fill="url(#linear-gradient)"/>
+    <g id="arrow-down-sign-to-navigate" transform="translate(1688.349 522.569) rotate(-90)">
+      <path id="Path_28862" data-name="Path 28862" d="M9.531,108.006a1.331,1.331,0,0,1-.944-.391l-8.2-8.2a1.335,1.335,0,0,1,1.888-1.888l7.252,7.252,7.252-7.252a1.335,1.335,0,0,1,1.887,1.888l-8.2,8.2A1.331,1.331,0,0,1,9.531,108.006Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
