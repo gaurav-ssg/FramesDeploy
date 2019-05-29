@@ -16,22 +16,29 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 // compress all responses
 app.use(compression());
-database_1["default"]
-    .authenticate()
-    .then(function () {
-    console.log("Connection has been established successfully.");
-    database_1["default"]
-        .sync()
-        .then(function () {
-        console.log("Connected to MsSQL Server");
-        routes_1["default"](app);
-        app.get("/*", function (req, res) {
-            res.sendFile(path.join(__dirname, "./public/index.html"));
-        });
-        app.listen(app.get("port"), function () {
-            return console.log("App listening on port " + app.get("port"));
-        });
-    })["catch"](function (error) { return console.log("This error occured: ", error); });
-})["catch"](function (err) {
-    console.error("Unable to connect to the database:", err);
+routes_1["default"](app);
+app.get("/*", function(req, res) {
+  res.sendFile(path.join(__dirname, "./public/index.html"));
 });
+app.listen(app.get("port"), function() {
+  return console.log("App listening on port " + app.get("port"));
+});
+// database_1["default"]
+//     .authenticate()
+//     .then(function () {
+//     console.log("Connection has been established successfully.");
+//     database_1["default"]
+//         .sync()
+//         .then(function () {
+//         console.log("Connected to MsSQL Server");
+//         routes_1["default"](app);
+//         app.get("/*", function (req, res) {
+//             res.sendFile(path.join(__dirname, "./public/index.html"));
+//         });
+//         app.listen(app.get("port"), function () {
+//             return console.log("App listening on port " + app.get("port"));
+//         });
+//     })["catch"](function (error) { return console.log("This error occured: ", error); });
+// })["catch"](function (err) {
+//     console.error("Unable to connect to the database:", err);
+// });
